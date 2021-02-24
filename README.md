@@ -9,7 +9,7 @@ Asus Router Control
 # Enable Telnet in Windows 10 side
 - Enable Windows 10 Telnet (https://kencenerelli.wordpress.com/2017/07/16/enabling-telnet-client-in-windows-10/)
 
-# install Command Tool
+# Install Command Tool
 - install Cmder (https://cmder.net/)
 
 # Enable Telnet in Router
