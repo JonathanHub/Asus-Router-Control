@@ -1,6 +1,6 @@
-# Asus Router YouTube Control
+# Asus Router Control
 
-Asus Router YouTube Control 
+Asus Router Control 
 
 - Router: Asus RT-AX92U
 - Tool: Telnet, Cmder
