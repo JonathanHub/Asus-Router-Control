@@ -19,6 +19,9 @@ Asus Router Control
 - https://mycyberuniverse.com/linux/enable-telnet-on-the-asus-rt-n12e-lx-router.html
 - https://mycyberuniverse.com/linux/full-controling-the-asus-router-via-command-line.html
 
+# Reference Python projects
+- https://github.com/kennedyshead/aioasuswrt (pip install aioasuswrt)
+- https://github.com/vrachieru/asuswrt-api/tree/master/example (python module is not available at 2/23/2021)
 
 
 
